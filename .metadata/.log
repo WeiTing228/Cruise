@@ -1,0 +1,13 @@
+!SESSION 2024-11-27 23:35:05.464 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_US_#Hant
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/playsee/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/playsee/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-27 23:35:18.410
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-27 23:35:55.670
+!MESSAGE Logback config file: /Users/playsee/Desktop/g3/TIA103G3_Servlet-main/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
